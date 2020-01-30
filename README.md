@@ -12,6 +12,12 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 * **Video source**: [Null Peta](https://myanimelist.net/anime/40178/Null_Peta) episode 2 (1:33.342-1:51.695 of the HorribleSubs release)
 * **Original subs**: (none)
 
+## `dependencies.ass`
+
+* **r/ProgrammerAnimemes post**: "[Dependencies](https://www.reddit.com/r/ProgrammerAnimemes/comments/ew6k2n/dependencies/)" (posted 2019-01-30)
+* **Video source**: [Sora yori mo Tooi Basho](https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho) episode 5 (5:25.618-6:50.304 of the Coldgirls batch release)
+* **Original subs**: Coldgirls (orz)
+
 ## `myne-finishes-a-ticket.ass`
 
 * **r/ProgrammerAnimemes post**: "[Myne finishes a ticket](https://www.reddit.com/r/ProgrammerAnimemes/comments/edxdxi/myne_finishes_a_ticket/)" (posted 2019-12-21)
