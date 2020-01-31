@@ -14,7 +14,7 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 
 ## `dependencies.ass`
 
-* **r/ProgrammerAnimemes post**: "[Dependencies](https://www.reddit.com/r/ProgrammerAnimemes/comments/ew6k2n/dependencies/)" (posted 2019-01-30)
+* **r/ProgrammerAnimemes post**: "[Dependencies](https://www.reddit.com/r/ProgrammerAnimemes/comments/ew6k2n/dependencies/)" (posted 2020-01-30)
 * **Video source**: [Sora yori mo Tooi Basho](https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho) episode 5 (5:25.618-6:50.304 of the Coldgirls batch release)
 * **Original subs**: Coldgirls (orz)
 
