@@ -6,7 +6,7 @@ For most of these, a fansub release is taken and the dialogue is heavily modifie
 The styling of the dialogue is kept to add an air of legitimacy.
 
 These subs were created with [Aegisub](http://www.aegisub.org/) and have only been tested with libass on Linux.
-mpv is recommended for playback.
+[mpv](https://mpv.io/) is recommended for playback.
 
 ## `continuous-deployment.ass`
 
