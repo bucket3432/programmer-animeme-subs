@@ -2,7 +2,7 @@
 
 These are the subtitles for [u/bucket3432](https://www.reddit.com/user/bucket3432)'s [OC video programmer animemes](https://www.reddit.com/r/ProgrammerAnimemes/search?q=author%3Abucket3432+url%3Av.redd.it&restrict_sr=on&sort=new&t=all).
 
-For most of these, a fansub release is taken and the dialogue is heavily modified and original typesetting is added. The styling of the subs is kept to add an air of legitimacy.
+For most of these, a fansub release is taken and the dialogue is heavily modified and original typesetting is added. The styling of the dialogue is kept to add an air of legitimacy.
 
 These subs were created with [Aegisub](http://www.aegisub.org/) and have only been tested with libass on Linux. mpv is recommended for playback.
 
