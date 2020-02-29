@@ -34,7 +34,7 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 
 ## `rap-of-failure.ass`
 
-* **r/ProgrammerAnimemes post**: "Rap of Failure" (posted 2020-02-29)
+* **r/ProgrammerAnimemes post**: "[Rap of Failure](https://www.reddit.com/r/ProgrammerAnimemes/comments/fbgcpc/rap_of_failure/)" (posted 2020-02-29)
 * **Video source**: "[High School Fleet](https://myanimelist.net/anime/31500/High_School_Fleet)" episode 10 (14:56.270-16:25.358 of the GJM release)
 * **Original subs**: Good Job! Media
 
