@@ -29,7 +29,7 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 ## `mynes-logs.ass`
 
 * **r/ProgrammerAnimemes post**: "[Myne's logs](https://old.reddit.com/r/ProgrammerAnimemes/comments/eerpih/mynes_logs/)" (posted 2019-12-23)
-* **Video source**: "[Honzuki no Gekokujou](https://myanimelist.net/anime/39468/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen)" episode 5 (15.59.040-16.29.863 of the GJM release)
+* **Video source**: "[Honzuki no Gekokujou](https://myanimelist.net/anime/39468/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen)" episode 5 (15:59.040-16:29.863 of the GJM release)
 * **Original subs**: Good Job! Media
 
 ## `under-the-hood.ass`
