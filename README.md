@@ -32,6 +32,12 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 * **Video source**: "[Honzuki no Gekokujou](https://myanimelist.net/anime/39468/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen)" episode 5 (15:59.040-16:29.863 of the GJM release)
 * **Original subs**: Good Job! Media
 
+## `rap-of-failure.ass`
+
+* **r/ProgrammerAnimemes post**: "Rap of Failure" (posted 2020-02-29)
+* **Video source**: "[High School Fleet](https://myanimelist.net/anime/31500/High_School_Fleet)" episode 10 (14:56.270-16:25.358 of the GJM release)
+* **Original subs**: Good Job! Media
+
 ## `under-the-hood.ass`
 
 * **r/ProgrammerAnimemes post**: "[Under the hood](https://www.reddit.com/r/ProgrammerAnimemes/comments/d6nlnd/under_the_hood/)" (posted 2019-09-20)
