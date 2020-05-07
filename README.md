@@ -32,6 +32,12 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 * **Video source**: "[Honzuki no Gekokujou](https://myanimelist.net/anime/39468/Honzuki_no_Gekokujou__Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen)" episode 5 (15:59.040-16:29.863 of the GJM release)
 * **Original subs**: Good Job! Media
 
+## `new-library.ass`
+
+* **r/ProgrammerAnimemes post**: "New Library" (posted 2020-05-07)
+* **Video source**: [Sora yori mo Tooi Basho](https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho) episode 10 (5:55.647-6:30.015 of the Coldgirls batch release)
+* **Original subs**: Coldgirls (orz)
+
 ## `rap-of-failure.ass`
 
 * **r/ProgrammerAnimemes post**: "[Rap of Failure](https://www.reddit.com/r/ProgrammerAnimemes/comments/fbgcpc/rap_of_failure/)" (posted 2020-02-29)
