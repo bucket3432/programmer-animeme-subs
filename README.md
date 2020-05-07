@@ -34,7 +34,7 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 
 ## `new-library.ass`
 
-* **r/ProgrammerAnimemes post**: "New Library" (posted 2020-05-07)
+* **r/ProgrammerAnimemes post**: "[New Library](https://www.reddit.com/r/ProgrammerAnimemes/comments/gf8tox/new_library/)" (posted 2020-05-07)
 * **Video source**: [Sora yori mo Tooi Basho](https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho) episode 10 (5:55.647-6:30.015 of the Coldgirls batch release)
 * **Original subs**: Coldgirls (orz)
 
