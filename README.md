@@ -38,6 +38,12 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 * **Video source**: [Sora yori mo Tooi Basho](https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho) episode 10 (5:55.647-6:30.015 of the Coldgirls batch release)
 * **Original subs**: Coldgirls (orz)
 
+## `parsing-html.ass`
+
+* **Video source**: Snippets from [Full Metal Panic? Fumoffu](https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu) episode 6
+* **Original subs**: Tsundere
+* **License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (The [Stack Overflow answer by bobince](https://stackoverflow.com/a/1732454) is licensed under a CC BY-SA licence.)
+
 ## `rap-of-failure.ass`
 
 * **r/ProgrammerAnimemes post**: "[Rap of Failure](https://www.reddit.com/r/ProgrammerAnimemes/comments/fbgcpc/rap_of_failure/)" (posted 2020-02-29)
@@ -52,5 +58,5 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 
 ## License
 
-These scripts are released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Unless otherwise stated, these scripts are released under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 In summary, you can do whatever you want with them as long as you give me (bucket3432) credit.
