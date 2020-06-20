@@ -41,7 +41,7 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 ## `parsing-html.ass`
 
 * **r/ProgrammerAnimemes post**: "[Parsing HTML](https://www.reddit.com/r/ProgrammerAnimemes/comments/hcfrtz/parsing_html/)" (posted 2020-06-20)
-* **Video source**: Snippets from [Full Metal Panic? Fumoffu](https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu) episode 6
+* **Video source**: [Full Metal Panic? Fumoffu](https://myanimelist.net/anime/72/Full_Metal_Panic_Fumoffu) episode 6 (1:31.717-2:59.429 of the Tsundere release)
 * **Original subs**: Tsundere
 * **License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (The [Stack Overflow answer by bobince](https://stackoverflow.com/a/1732454) is licensed under a CC BY-SA licence.)
 
