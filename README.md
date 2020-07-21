@@ -22,6 +22,7 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 
 ## `interns-and-the-legacy-app.ass`
 
+* **r/ProgrammerAnimemes post**: "[Interns and the Legacy App](https://www.reddit.com/r/ProgrammerAnimemes/comments/huxvqw/interns_and_the_legacy_app/)" (posted 2020-07-21)
 * **Video source**: [Sora no Woto](https://myanimelist.net/anime/6802/So_Ra_No_Wo_To) episode 5 (7:29.114-8:46.860 of the Femme batch release)
 * **Original subs**: Chihiro (via Femme)
 
