@@ -20,6 +20,11 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 * **Video source**: [Sora yori mo Tooi Basho](https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho) episode 5 (5:25.618-6:50.304 of the Coldgirls batch release)
 * **Original subs**: Coldgirls (orz)
 
+## `interns-and-the-legacy-app.ass`
+
+* **Video source**: [Sora no Woto](https://myanimelist.net/anime/6802/So_Ra_No_Wo_To) episode 5 (7:29.114-8:46.860 of the Femme batch release)
+* **Original subs**: Chihiro (via Femme)
+
 ## `myne-finishes-a-ticket.ass`
 
 * **r/ProgrammerAnimemes post**: "[Myne finishes a ticket](https://www.reddit.com/r/ProgrammerAnimemes/comments/edxdxi/myne_finishes_a_ticket/)" (posted 2019-12-21)
