@@ -53,6 +53,7 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 
 ## `rabbit-simulator.ass`
 
+* **r/ProgrammerAnimemes post**: "[Rabbit Simulator](https://www.reddit.com/r/ProgrammerAnimemes/comments/ihxokz/rabbit_simulator/)" (posted 2020-08-28)
 * **Video source**: [Senryuu Shoujo](https://myanimelist.net/anime/38787/Senryuu_Shoujo) episode 7 (7:19.118-7:56.308 of the GJM release)
 * **Original subs**: Good Job! Media
 
