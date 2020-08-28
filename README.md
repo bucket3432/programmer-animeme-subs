@@ -51,6 +51,11 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 * **Original subs**: Tsundere
 * **License**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (The [Stack Overflow answer by bobince](https://stackoverflow.com/a/1732454) is licensed under a CC BY-SA licence.)
 
+## `rabbit-simulator.ass`
+
+* **Video source**: [Senryuu Shoujo](https://myanimelist.net/anime/38787/Senryuu_Shoujo) episode 7 (7:19.118-7:56.308 of the GJM release)
+* **Original subs**: Good Job! Media
+
 ## `rap-of-failure.ass`
 
 * **r/ProgrammerAnimemes post**: "[Rap of Failure](https://www.reddit.com/r/ProgrammerAnimemes/comments/fbgcpc/rap_of_failure/)" (posted 2020-02-29)
