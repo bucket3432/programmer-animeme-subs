@@ -65,6 +65,7 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 
 ## `repo-magic.ass`
 
+* **r/ProgrammerAnimemes post**: "[Repo Magic](https://www.reddit.com/r/ProgrammerAnimemes/comments/nus6gy/repo_magic/)" (posted 2021-06-08)
 * **Video source**: "[Majo no Tabitabi](https://myanimelist.net/anime/40571/Majo_no_Tabitabi)" episode 2 (3:15:695-5:47:430 of the GJM-Kaleido release)
 * **Original subs**: Good Job! Media/Kaleido-Subs
 
