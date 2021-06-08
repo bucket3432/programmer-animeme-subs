@@ -63,6 +63,11 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 * **Video source**: "[High School Fleet](https://myanimelist.net/anime/31500/High_School_Fleet)" episode 10 (14:56.270-16:25.358 of the GJM release)
 * **Original subs**: Good Job! Media
 
+## `repo-magic.ass`
+
+* **Video source**: "[Majo no Tabitabi](https://myanimelist.net/anime/40571/Majo_no_Tabitabi)" episode 2 (3:15:695-5:47:430 of the GJM-Kaleido release)
+* **Original subs**: Good Job! Media/Kaleido-Subs
+
 ## `under-the-hood.ass`
 
 * **r/ProgrammerAnimemes post**: "[Under the hood](https://www.reddit.com/r/ProgrammerAnimemes/comments/d6nlnd/under_the_hood/)" (posted 2019-09-20)
