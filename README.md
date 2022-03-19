@@ -69,6 +69,12 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 * **Video source**: "[Majo no Tabitabi](https://myanimelist.net/anime/40571/Majo_no_Tabitabi)" episode 2 (3:15.695-5:47.430 of the GJM-Kaleido release)
 * **Original subs**: Good Job! Media/Kaleido-Subs
 
+## `sort-using-js`
+
+* **Video source**: "[Karakai Jouzu no Takagi-san 3](https://myanimelist.net/anime/49721/Karakai_Jouzu_no_Takagi-san_3)" episode 3 (03:03.018-05:01.135 of the NovaWorks release)
+* **Original subs**: NovaWorks
+* **License of code snippets**: [CC0](http://creativecommons.org/publicdomain/zero/1.0/)
+
 ## `under-the-hood.ass`
 
 * **r/ProgrammerAnimemes post**: "[Under the hood](https://www.reddit.com/r/ProgrammerAnimemes/comments/d6nlnd/under_the_hood/)" (posted 2019-09-20)
