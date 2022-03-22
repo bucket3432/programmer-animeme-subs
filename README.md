@@ -71,6 +71,7 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 
 ## `sort-using-js`
 
+* **r/ProgrammerAnimemes post**: "[Sort using JS](https://www.reddit.com/r/ProgrammerAnimemes/comments/tjyg2c/sort_using_js/)" (posted 2022-03-22)
 * **Video source**: "[Karakai Jouzu no Takagi-san 3](https://myanimelist.net/anime/49721/Karakai_Jouzu_no_Takagi-san_3)" episode 3 (03:03.018-05:01.135 of the NovaWorks release)
 * **Original subs**: NovaWorks
 * **License of code snippets**: [CC0](http://creativecommons.org/publicdomain/zero/1.0/)
