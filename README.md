@@ -20,6 +20,11 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 * **Video source**: [Sora yori mo Tooi Basho](https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho) episode 5 (5:25.618-6:50.304 of the Coldgirls batch release)
 * **Original subs**: Coldgirls (orz)
 
+## `enterprise-solution.ass`
+
+* **Video source**: [Joshiraku](https://myanimelist.net/anime/12679/Joshiraku) episode 10 (21:12.146-22:09.995 of the Kaleido release)
+* **Original subs**: Kaleido
+
 ## `interns-and-the-legacy-app.ass`
 
 * **r/ProgrammerAnimemes post**: "[Interns and the Legacy App](https://www.reddit.com/r/ProgrammerAnimemes/comments/huxvqw/interns_and_the_legacy_app/)" (posted 2020-07-21)
