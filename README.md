@@ -22,6 +22,7 @@ These subs were created with [Aegisub](http://www.aegisub.org/) and have only be
 
 ## `enterprise-solution.ass`
 
+* **r/ProgrammerAnimemes post**: "[Enterprise solution](https://www.reddit.com/r/ProgrammerAnimemes/comments/ynb0ad/enterprise_solution/)" (posted 2022-11-05)
 * **Video source**: [Joshiraku](https://myanimelist.net/anime/12679/Joshiraku) episode 10 (21:12.146-22:09.995 of the Kaleido release)
 * **Original subs**: Kaleido
 
