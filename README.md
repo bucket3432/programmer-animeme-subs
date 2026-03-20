@@ -8,6 +8,12 @@ The styling of the dialogue is kept to add an air of legitimacy.
 These subs were created with [Aegisub](http://www.aegisub.org/) and have only been tested with libass on Linux.
 [mpv](https://mpv.io/) is recommended for playback.
 
+## `ameku-takao-senior-developer.ass`
+
+* **r/ProgrammerAnimemes post**: "[Ameku Takao: Senior Developer]()" (posted 2026-03-20)
+* **Video source**: [Ameku Takao no Suiri Karte](https://myanimelist.net/anime/58600/Ameku_Takao_no_Suiri_Karte) episode 2 (17:18.037-20:50.320 of the SubsPlease release)
+* **Original subs**: Crunchyroll (via SubsPlease)
+
 ## `continuous-deployment.ass`
 
 * **r/ProgrammerAnimemes post**: "[Continuous Deployment](https://www.reddit.com/r/ProgrammerAnimemes/comments/duk8tb/continuous_deployment/)" (posted 2019-11-11)
